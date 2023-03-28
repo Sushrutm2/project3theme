@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Project
+title: "Project"
 
 # Your name to show in the footer
 author: Sushrut Mohapatra
@@ -20,11 +20,11 @@ author: Sushrut Mohapatra
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: ""
 
 ################
 # --- Logo --- #
