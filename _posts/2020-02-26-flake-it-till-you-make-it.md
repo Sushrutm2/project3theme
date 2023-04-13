@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: post 
+date_format: "%B %-d, %Y"
 title: Excel Data Analysis
 subtitle: Results and data from ergo bike test  
 cover-img: /assets/img/path.jpg
