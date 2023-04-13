@@ -1,12 +1,10 @@
 ---
 layout: post 
-date_format: "%B %-d, %Y"
 title: Excel Data Analysis
 subtitle: Results and data from ergo bike test  
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: #[books, test]
 ---
 
 >The two graphs represent &#x56;&#x0307;O<sub>2</sub> and VE data collected from KNES 373 lab where a participant was required to use a Monark cycle ergonometer till maximal exhaustion.
