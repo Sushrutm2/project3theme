@@ -3,7 +3,7 @@ layout: post
 title: Scratch Game
 subtitle: Play a Fun Game I Created Using Scratch  
 cover-img: /assets/img/field.jpg
-thumbnail-img: /assets/img/golpic.jpg
+thumbnail-img: /assets/img/sanic.png
 share-img:
 ---
 Here is the scratch file to play the game, all you have to do is download it and then go to the scratch website and upload the file to the website and you can get started. Have fun!:
