@@ -9,6 +9,11 @@ share-img:
 
 Golf is a very technichal sport and biomechanics can be analyzed to determine where improvements need to be made. The video attached below contains some suggestions on what the golfer can do to improve their form as well as provides feedback on what was done well.
 
->Video made on dartfish of golf swing:
+>Video of golf swing with no edits:
+>
+<video src="video-75ce9a3b-8cc8-43b8-bbaf-0bb870106a63 (1).mp4" controls>
+  Your browser does not support the video tag.
+</video>
 
-<img src="/project3theme/assets/img/Golfmontage.Storyboard" alt="Video analysis" itemprop="video" class="video">
+
+
