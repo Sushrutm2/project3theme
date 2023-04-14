@@ -18,11 +18,11 @@ Golf is a very technichal sport and biomechanics can be analyzed to determine wh
 >
 <img src="/project3theme/assets/img/golf1.png" alt="still shot 1" itemprop="image" class="u-photo">
 
->In the following still shot the golfer's rotation and technique is analyzed:
+>In the following still shot the golfer's back swing is analyzed:
 >
 <img src="/project3theme/assets/img/golf2.png" alt="still shot 2" itemprop="image" class="u-photo">
 
->In the following still shot the golfer's follow through is analyzed:
+>In the following still shot the golfer's rotation and technique is analyzed:
 >
 <img src="/project3theme/assets/img/golf3.png" alt="still shot 3" itemprop="image" class="u-photo">
 
