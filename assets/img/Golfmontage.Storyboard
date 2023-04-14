@@ -1,0 +1,121 @@
+<Storyboard Version="1.0" UseItemIds="-1"><meta name="Software" content="Dartfish 11.2.1103.0"/><GlobalMarker><LIBRARY_ITEM><NAME></NAME><ID>{DF91F0B9-E4F4-4F5F-8D91-FC4107588A5F}</ID><VERSION subversion="1">2.0</VERSION><FILE_NAME></FILE_NAME><Library.MDProperties><Property Name="Title"><![CDATA[Untitled Montage]]></Property></Library.MDProperties></LIBRARY_ITEM></GlobalMarker><StoryboardItemCollection><StoryboardItem Id="0" Type="0"><TimelineCollection><Timeline><TimelineGroup Visible="Yes" Locked="No" Name="Composition" Id="" Start="0" Stop="0" Expanded="Yes" TrackColor=""><VirtualTrack Type="TimelineComposition" Visible="Yes" Locked="No" Name="video-75ce9a3b-8cc8-43b8-bbaf-0bb870106a63" Id="A" Start="0" Stop="0" Expanded="Yes" TrackColor="Blue"><VirtualTrack Type="TimelineTrack" Visible="Yes" Locked="No" Name="Clip A" Id="" Start="0" Stop="0" Expanded="Yes" TrackColor="Blue" TrackIndex="0"><TimelineSource Visible="Yes" Locked="No" Name="" Id="VideoA" Start="0" Stop="20800000" Media="..\video-75ce9a3b-8cc8-43b8-bbaf-0bb870106a63.mp4"/></VirtualTrack><VirtualTrack Type="TimelineTrack" Visible="Yes" Locked="No" Name="Drawing A" Id="" Start="0" Stop="0" Expanded="Yes" TrackColor=""/></VirtualTrack><VirtualTrack Type="TimelineComposition" Visible="No" Locked="No" Name="B" Id="B" Start="0" Stop="0" Expanded="Yes" TrackColor="Yellow"><VirtualTrack Type="TimelineTrack" Visible="Yes" Locked="No" Name="Clip B" Id="" Start="0" Stop="0" Expanded="Yes" TrackColor="Yellow" TrackIndex="1"/><VirtualTrack Type="TimelineTrack" Visible="Yes" Locked="No" Name="Drawing B" Id="" Start="0" Stop="0" Expanded="Yes" TrackColor=""/></VirtualTrack><VirtualTrack Type="TimelineComposition" Visible="No" Locked="No" Name="C" Id="C" Start="0" Stop="0" Expanded="Yes" TrackColor="Green"><VirtualTrack Type="TimelineTrack" Visible="Yes" Locked="No" Name="Clip C" Id="" Start="0" Stop="0" Expanded="Yes" TrackColor="Green" TrackIndex="2"/><VirtualTrack Type="TimelineTrack" Visible="Yes" Locked="No" Name="Drawing C" Id="" Start="0" Stop="0" Expanded="Yes" TrackColor=""/></VirtualTrack><VirtualTrack Type="TimelineComposition" Visible="No" Locked="No" Name="D" Id="D" Start="0" Stop="0" Expanded="Yes" TrackColor="Red"><VirtualTrack Type="TimelineTrack" Visible="Yes" Locked="No" Name="Clip D" Id="" Start="0" Stop="0" Expanded="Yes" TrackColor="Red" TrackIndex="3"/><VirtualTrack Type="TimelineTrack" Visible="Yes" Locked="No" Name="Drawing D" Id="" Start="0" Stop="0" Expanded="Yes" TrackColor=""/></VirtualTrack></TimelineGroup></Timeline></TimelineCollection><GlobalMarker><LIBRARY_ITEM IN="0" UNIT="RefTime" OUT="20800000"><NAME></NAME><ID>{79A75692-EE66-490E-85B0-8F3B1F5DEEAB}</ID><VERSION subversion="1">2.0</VERSION><FILE_NAME></FILE_NAME></LIBRARY_ITEM></GlobalMarker></StoryboardItem></StoryboardItemCollection><Data Id="ODProject" Type="text/xml"><ODProject Version="1.0"><ODStream>4
+10 0 1 958 718 1 400000 0 4 
+0 1 74 C:\Users\Sarbabyapi\Desktop\video-75ce9a3b-8cc8-43b8-bbaf-0bb870106a63.mp4
+1 0 
+2 0 
+3 0 
+1
+3
+4
+1
+0
+1
+0
+0
+1
+13
+0
+4
+1
+0
+0
+0
+0
+20800000
+4
+4096
+C:\Users\Sarbabyapi\Desktop\video-75ce9a3b-8cc8-43b8-bbaf-0bb870106a63.mp4
+0
+912
+718
+7184
+5385
+0
+25
+1
+20800000
+0
+0
+0
+0
+4294967295
+4
+0
+1
+0
+0
+-1
+-1
+-1
+-1
+1
+-1
+2
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+2
+4
+0
+0
+911
+717
+0
+0
+-1
+-1
+0
+0
+-1
+-1
+0
+0
+-1
+-1
+2
+4
+166
+0
+1607
+1079
+0
+0
+-1
+-1
+0
+0
+-1
+-1
+0
+0
+-1
+-1
+2
+-
+-
+-
+-
+</ODStream><dmmStream_0>2 0 2 0 1 0 4 2 0 0 1255 764 1 0 0 1 0.608765 1 0.0939306 0 0.906069 0.608765 1 0 0 1774.08 1080 1 0 0 912 718 1 0 1 0 1 16 0.952116 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 1 2 0 1 4 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 2 2 0 1 4 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 3 2 0 1 4 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0.25 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0.25 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0.25 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0.25 16 1 2 4 2 0 1 4 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0.25 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0.25 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0.25 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0.25 16 1 2 5 2 0 1 4 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 6 4 0 1 2 3 4 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 16 1 1 1 2 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </dmmStream_0><drawingStream_0>1
+5
+2
+0 13 BEGIN_SCENE_11052 5 0 1 0 65535 0 0 0 0 0 0.952116 0 0 1 1 1103 5 0 1 0 65407 0 0 0 0 0 0.952116 0 0 2 5 53.0637 53.4197 0 1 53.0637 48.1626 0 1 348.926 48.1626 0 1 53.0637 80.2664 0 1 348.926 80.2664 0 1 0 0 0 0 1 2 1 0 0 0 255 1 127 127 127 255 0 3 1 0 20 20 5 1 1 1 255 255 255 47 1 127 127 127 255 1 0 1 36 Follow through on swing is excellent3 3 5 Arial1 0 0 20 1 0 0 0 0 2 0 1 1 255 255 255 255 1 720 9 END_SCENE
+0 2
+0 13 BEGIN_SCENE_11052 5 0 1 0 65535 0 0 0 0 0 1 0 0 1 0 1 720 9 END_SCENE
+0 2
+0 13 BEGIN_SCENE_11052 5 0 1 0 65535 0 0 0 0 0 1 0 0 1 0 1 720 9 END_SCENE
+0 2
+0 13 BEGIN_SCENE_11052 5 0 1 0 65535 0 0 0 0 0 1 0 0 1 0 1 720 9 END_SCENE
+0 2
+0 13 BEGIN_SCENE_11052 5 0 1 0 65535 0 0 0 0 0 1 0 0 1 0 1 720 9 END_SCENE
+0 </drawingStream_0><MosaicManager_0/></ODProject></Data></Storyboard>
