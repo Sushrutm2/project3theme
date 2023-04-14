@@ -2,7 +2,7 @@
 layout: post 
 title: Scratch Game
 subtitle: Play a Fun Game I Created Using Scratch  
-cover-img: /assets/img/field.jpg
+cover-img: /assets/img/game.png
 thumbnail-img: /assets/img/sanic.png
 share-img:
 ---
