@@ -11,7 +11,7 @@ Golf is a very technichal sport and biomechanics can be analyzed to determine wh
 
 >Video of golf swing with no edits:
 >
-<video src="video-75ce9a3b-8cc8-43b8-bbaf-0bb870106a63 (1).mp4" controls>
+<video src="/project3theme/assets/img/video-75ce9a3b-8cc8-43b8-bbaf-0bb870106a63 (1).mp4" controls>
   Your browser does not support the video tag.
 </video>
 
