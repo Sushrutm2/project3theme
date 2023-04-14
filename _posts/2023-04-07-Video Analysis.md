@@ -2,8 +2,8 @@
 layout: post 
 title: Video Analysis
 subtitle: Golf Swing Analysis  
-cover-img: /assets/img/VO2+max+testing+fort+collins+colorado.jpg
-thumbnail-img: /assets/img/cycle.jpg
+cover-img: /assets/img/field.jpg
+thumbnail-img: /assets/img/golpic.jpg
 share-img:
 ---
 
